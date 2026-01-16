@@ -50,9 +50,9 @@ I hold a **Bachelor of Computer Application (BCA)** from St. Wilfred's PG Colleg
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naraina20&show_icons=true&theme=radical&hide_border=true" alt="Narayan Dewasi's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naraina20&theme=radical&hide_border=true" alt="Narayan Dewasi's GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naraina20&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=naraina20&show_icons=true&theme=radical&hide_border=true" alt="Narayan Dewasi's GitHub Stats "/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naraina20&theme=radical&hide_border=true" alt="Narayan Dewasi's GitHub Streak "/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naraina20&layout=compact&theme=radical&hide_border=true" alt="Top Languages "/>
 </p>
 
 ---
